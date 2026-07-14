@@ -31,3 +31,46 @@ Even right now, as I sit in front of the computer writing these words, AI autoco
 Ever since all this happened, while enjoying the immense productivity AI provides, alarm bells have been constantly ringing in my head—where will this path ultimately lead us?
 
 Experts of all kinds have their own opinions, but I haven't seen a single definitive answer. I don't think anyone can give us one right now. Since that is the case, we cannot sit idly by awaiting our doom. We'd better figure out how to survive in the age of AI.
+
+---
+
+## 参与贡献 / Contributing
+
+### 中文
+这是一个开源项目，旨在汇集关于目前和未来如何在 AI 时代生存与生活的故事、个人经历与讨论。我们热烈欢迎所有人的贡献！
+
+**如何参与贡献：**
+1. **Fork** 本仓库。
+2. 创建您的特性分支（例如 `git checkout -b story/my-ai-experience`）。
+3. 撰写您的故事、分享经历、发起讨论或翻译现有文章。
+4. 提交您的修改并推送到您的 Fork 仓库。
+5. 提交一个 **Pull Request (PR)** 到本仓库。
+
+### English
+This is an open-source project dedicated to sharing stories, personal experiences, and discussions about how to navigate life with AI today and in the future. Everyone is welcome to contribute!
+
+**How to contribute:**
+1. **Fork** this repository.
+2. Create your feature branch (e.g., `git checkout -b story/my-ai-experience`).
+3. Write your story, share your experience, start a discussion, or translate existing articles.
+4. Commit your changes and push them to your fork.
+5. Open a **Pull Request (PR)** to this repository.
+
+---
+
+## 许可协议 / License
+
+### 中文
+本项目采用 **[知识共享 署名-禁止演绎 4.0 国际许可协议 (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.zh)** 进行许可。
+
+根据此协议：
+* **自由分享与发布**：您可以在任何媒介或格式中自由复制、重新分发和发布本项目的内容。
+* **仓库外禁止修改**：若您在仓库之外分发或发布本项目内容，**您不能对其进行任何修改、编辑或删减**。所有的修改、更正或内容新增必须通过 Pull Request 提交并合并到本仓库中。本仓库是所有发布内容的唯一源头。
+
+### English
+This project is licensed under the **[Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)** license.
+
+Under these terms:
+* **Free to Share and Publish**: You are free to copy, redistribute, and publish the material in any medium or format for any purpose.
+* **No Modifications Outside the Repo**: If you distribute or publish the material outside this repository, **you must not modify, edit, or remove any part of it**. All modifications, corrections, or contributions must be made directly to this repository via Pull Requests. This repository remains the single source of truth for all publishing.
+
