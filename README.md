@@ -41,8 +41,8 @@ Experts of all kinds have their own opinions, but I haven't seen a single defini
 如果你也有想法，欢迎随时联系我。
 
 ### English
-This is a project for sharing and documenting self-reflections. I hope that these bits and pieces will come together to pave a path for surviving in this new era.
-If you also have ideas, please feel free to reach out to me.
+This is a project for sharing and documenting self-reflections. I hope that these bits and pieces will come together to pave a path for surviving in this new era. If you also have ideas, please feel free to reach out to me.
+
 
 ---
 
