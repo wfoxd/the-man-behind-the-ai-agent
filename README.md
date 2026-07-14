@@ -37,24 +37,12 @@ Experts of all kinds have their own opinions, but I haven't seen a single defini
 ## 参与贡献 / Contributing
 
 ### 中文
-这是一个开源项目，旨在汇集关于目前和未来如何在 AI 时代生存与生活的故事、个人经历与讨论。我们热烈欢迎所有人的贡献！
-
-**如何参与贡献：**
-1. **Fork** 本仓库。
-2. 创建您的特性分支（例如 `git checkout -b story/my-ai-experience`）。
-3. 撰写您的故事、分享经历、发起讨论或翻译现有文章。
-4. 提交您的修改并推送到您的 Fork 仓库。
-5. 提交一个 **Pull Request (PR)** 到本仓库。
+这是一个讲述和记录自我思考的项目。希望用这点点滴滴汇聚出这个新时代生存之道。
+如果你也有想法，欢迎随时联系我。
 
 ### English
-This is an open-source project dedicated to sharing stories, personal experiences, and discussions about how to navigate life with AI today and in the future. Everyone is welcome to contribute!
-
-**How to contribute:**
-1. **Fork** this repository.
-2. Create your feature branch (e.g., `git checkout -b story/my-ai-experience`).
-3. Write your story, share your experience, start a discussion, or translate existing articles.
-4. Commit your changes and push them to your fork.
-5. Open a **Pull Request (PR)** to this repository.
+This is a project for sharing and documenting self-reflections. I hope that these bits and pieces will come together to pave a path for surviving in this new era.
+If you also have ideas, please feel free to reach out to me.
 
 ---
 
